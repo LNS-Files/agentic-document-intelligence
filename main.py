@@ -7,7 +7,8 @@ def turbo_genie():
     pdf_path = os.path.join("data", "sample_plan.pdf")
     user_scenario = "I have a chronic condition, visit my doctor monthly, and want low copays."
     
-    print("🚀 Initializing TURBO Benefits Genie...")
+    print("🚀 Initializing Agentic Document Intelligence Architect...")
+
 
     if not os.path.exists(pdf_path):
         print("❌ Error: Put 'sample_plan.pdf' in the 'data' folder.")

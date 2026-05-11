@@ -1,4 +1,4 @@
-# 🧬 AI Benefits Architect: Local HIPAA-Compliant Analysis
+# Agentic Document Intelligence
 
 <p align="center">
   <img src="output_demo.png" alt="Benefits AI Demo" width="700">
