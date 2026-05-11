@@ -1,0 +1,11 @@
+# Ignore the virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Ignore the actual medical data (HIPAA Privacy)
+data/
+*.pdf
+
+# Ignore secrets
+.env
