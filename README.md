@@ -1,12 +1,5 @@
 # Agentic Document Intelligence
 
-<p align="center">
-  <img src="output_demo.png" alt="Benefits AI Demo" width="700">
-  <br>
-  <em>Figure 1: Local Llama 3 extracting healthcare data and providing expert reasoning.</em>
-</p>
-
-
 An end-to-end **Agentic AI Pipeline** designed to transform unstructured healthcare Summary of Benefits (SBC) PDFs into structured, actionable insights. 
 
 ### 🌟 Project Highlights
