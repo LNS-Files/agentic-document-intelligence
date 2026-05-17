@@ -1,5 +1,6 @@
 # Ignore the virtual environment
 venv/
+.venv/
 __pycache__/
 *.pyc
 
@@ -9,3 +10,9 @@ data/
 
 # Ignore secrets
 .env
+
+# Generated output files
+output.json
+output.csv
+output.json
+output.csv
